@@ -43,4 +43,5 @@ Hardware:
  osをimportして, os.cpu_count()を使うと, パソコンで扱える最大のコア数で分散処理可能
 
 # 次学びたいこと
-* BERTの書籍
+* BERTの書籍 <br>
+https://www.amazon.co.jp/BERTによる自然言語処理入門-Transformersを使った実践プログラミング-ストックマーク株式会社/dp/427422726X
