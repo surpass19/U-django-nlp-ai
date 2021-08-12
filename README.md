@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=wGCzd2k-0GU <br>
 # 学んだこと
 * 自然言語の扱い方
 * 他クラス分類の流れ
+* Djangoによるアプリ作成(AIのモデルを使った)
+* GCEを使ったデプロイ ⇨ Herokuの方が楽
 
 ## 具体
 * BOW
