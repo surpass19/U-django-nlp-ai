@@ -1,12 +1,19 @@
 # U-django-nlp-ai
 
+* rakuma_NPL.ipynb:
 https://www.youtube.com/watch?v=_87RY9rb79I <br>
 を見て写経
+
+* rakuma_NPL_add_w2v_LGBM.ipynb:
+https://www.youtube.com/watch?v=wGCzd2k-0GU <br>
+によってモデル改善
 
 
 # 学んだこと
 * 自然言語の扱い方
+* 他クラス分類の流れ
 
+## 具体
 * BOW
 * tfidf
 * Pipeline
@@ -33,3 +40,5 @@ Hardware:
       
  osをimportして, os.cpu_count()を使うと, パソコンで扱える最大のコア数で分散処理可能
 
+# 次学びたいこと
+* BERTの書籍
