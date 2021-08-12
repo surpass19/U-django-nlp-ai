@@ -5,16 +5,17 @@ https://www.youtube.com/watch?v=_87RY9rb79I <br>
 
 
 # 学んだこと
-自然言語の扱い方
+* 自然言語の扱い方
 
+* BOW
+* tfidf
+* Pipeline
+前処理 ~ 学習の処理をまとめられる
 
-BOW
-tfidf
-Pipelineを使うと, 前処理 ~ 学習の処理をまとめられる
-
-classification_report
+* classification_report
 混合行列を自動で返してくれる、使いやすい
-↓
+
+* ↓
 BOW・tfidfでは次元が多くなってしまうため, Word2vecを使った方が良い
 
 「system_profiler SPHardwareDataType」
