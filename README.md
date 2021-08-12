@@ -29,12 +29,6 @@ Hardware:
       Chip: Apple M1
       Total Number of Cores: 8 (4 performance and 4 efficiency)
       Memory: 16 GB
-      System Firmware Version: 6723.120.36
-      OS Loader Version: 6723.120.36
-      Serial Number (system): FVFFX2QHQ6LT
-      Hardware UUID: B167657C-B55D-5892-8E83-778F564A7C16
-      Provisioning UDID: 00008103-000859980EF3001E
-      Activation Lock Status: Disabled
       
  osをimportして, os.cpu_count()を使うと, パソコンで扱える最大のコア数で分散処理可能
 
