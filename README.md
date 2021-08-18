@@ -1,10 +1,12 @@
 # U-django-nlp-ai
 
 * rakuma_NPL.ipynb:
+* 【4時間でPython AIアプリ開発】Python Django scikit learnでAIアプリを開発
 https://www.youtube.com/watch?v=_87RY9rb79I <br>
 を見て写経
 
 * rakuma_NPL_add_w2v_LGBM.ipynb:
+* 【たった90分でAI開発】Python word2vec + LightGBMで多値分類に挑戦！
 https://www.youtube.com/watch?v=wGCzd2k-0GU <br>
 によってモデル改善
 
