@@ -65,7 +65,7 @@ weighted avg       0.91      0.91      0.91     19004
 BOW・tfidfでは次元が多くなってしまうため, Word2vecを使った方が良い
 
 「system_profiler SPHardwareDataType」
-コマンドにこれを打つと, コア数がわかる
+コマンド(terminal)にこれを打つと, コア数がわかる
 出力:
 Hardware:
 
